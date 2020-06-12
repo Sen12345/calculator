@@ -1,2 +1,2 @@
-5# THIS IS A CALCULATOR
+#THIS IS A CALCULATOR
 Created using Javascript HTML5 and CSS
